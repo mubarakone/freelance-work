@@ -6,3 +6,4 @@
 # `DEX`
 ![Animation6](https://user-images.githubusercontent.com/52806204/167957215-f5aa8f99-1ab8-4f65-993d-3e75d0684030.gif)
 # `nft-marketplace`
+# `wallet-dashboard`
